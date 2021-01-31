@@ -1,6 +1,6 @@
 {
   "name": "@apio/express-prometheus",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Express middleware to provide basic metrics to Prometheus.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
