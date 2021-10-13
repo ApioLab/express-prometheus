@@ -1,0 +1,21 @@
+# 📦 2.0.1 (13 Oct 2021)
+- [4dcef](https://github.com/ApioLab/express-prometheus/commit/4dceff671262f5e32bff0d01557aefc0acca5611)  📦 Release 2.0.1
+- [35523](https://github.com/ApioLab/express-prometheus/commit/355231b826a47a13ad0a1f7988f585d5f09fb24e)  chore: update dependencies
+- [a18a1](https://github.com/ApioLab/express-prometheus/commit/a18a17d2f2f2a3b6d29ec09780c6da01725b7356)  Merge pull request #9 from ApioLab/dependabot/npm_and_yarn/tmpl-1.0.5
+- [39711](https://github.com/ApioLab/express-prometheus/commit/39711615fcbc5f8a1af53cd0463f06df647d4aa4)  chore(deps): bump tmpl from 1.0.4 to 1.0.5
+- [985aa](https://github.com/ApioLab/express-prometheus/commit/985aab9d6b4f5a0878c02ac99bbafa7dc37f4203)  Merge pull request #5 from ApioLab/dependabot/npm_and_yarn/ws-7.4.6
+- [710ad](https://github.com/ApioLab/express-prometheus/commit/710ad65b1f75191787eb3aab2a9f15ff6e5c9c18)  chore(deps): bump ws from 7.4.2 to 7.4.6
+- [85ba7](https://github.com/ApioLab/express-prometheus/commit/85ba7fc6b55a6fc6742b5d02026ecfb34a87e5db)  Merge pull request #3 from ApioLab/dependabot/npm_and_yarn/lodash-4.17.21
+- [8a8a2](https://github.com/ApioLab/express-prometheus/commit/8a8a24007316d7102a6ef2aab34172802f437907)  Merge pull request #4 from ApioLab/dependabot/npm_and_yarn/hosted-git-info-2.8.9
+- [4f07f](https://github.com/ApioLab/express-prometheus/commit/4f07f45bb7a65d49c94b431a85de76a45ae58688)  chore(deps): bump hosted-git-info from 2.8.8 to 2.8.9
+- [67577](https://github.com/ApioLab/express-prometheus/commit/67577353d7c36862ba97321d9fdd3acb0e40eb0f)  chore(deps): bump lodash from 4.17.20 to 4.17.21
+- [04708](https://github.com/ApioLab/express-prometheus/commit/04708d291c3c5ab519f865697b57544719f923ab)  bump version 2.0.0
+- [86bda](https://github.com/ApioLab/express-prometheus/commit/86bdada5d8d9a89e7b3ad9437e2e12e3e5b12269)  Merge pull request #2 from matteodisabatino/master
+- [83db3](https://github.com/ApioLab/express-prometheus/commit/83db3bacf4d48f8ac03c126cf9a4454fc1fd879f)  chore: update dependencies
+- [de303](https://github.com/ApioLab/express-prometheus/commit/de303b5e81c1f5786e39e5daafda64ff6e098b33)  fix: default value for options
+- [1f987](https://github.com/ApioLab/express-prometheus/commit/1f9875b73144be641b59d116a82bd5127a28b8a5)  refactor: code improvements
+- [674ae](https://github.com/ApioLab/express-prometheus/commit/674aec695fa82ebbbac547190c4bd3fee60de407)  lint: fixed lint
+- [828fe](https://github.com/ApioLab/express-prometheus/commit/828fea7bd3dc3a5bd3ba81e68269cb52a21816cc)  chore: update dependencies
+- [fe615](https://github.com/ApioLab/express-prometheus/commit/fe61566644a12a842de8f7141f9bb2fd92925da1)  Merge pull request #1 from ApioLab/dependabot/npm_and_yarn/lodash-4.17.19
+- [9052d](https://github.com/ApioLab/express-prometheus/commit/9052d4740e901c26c9876bd257de97cb718a6a9c)  Bump lodash from 4.17.15 to 4.17.19
+- [1367a](https://github.com/ApioLab/express-prometheus/commit/1367a01d8a81e25baae1aaa7425a9c0eef582d21)  first commit
