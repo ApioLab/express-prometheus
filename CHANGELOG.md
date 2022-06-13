@@ -1,3 +1,10 @@
+# 📦 2.0.2 (13 Jun 2022)
+- [1bb47](https://github.com/ApioLab/express-prometheus/commit/1bb4736a20e1e3722d7cc887034616676ecbc635)  📦  Release 2.0.2
+- [49fdf](https://github.com/ApioLab/express-prometheus/commit/49fdf8ff258072d501d17f6a592d247491b2de68)  chore: update dependencies
+- [a7952](https://github.com/ApioLab/express-prometheus/commit/a795285e31696661b49185e6bfe3efd435fa6fdf)  Merge pull request #11 from ApioLab/dependabot/npm_and_yarn/ajv-6.12.6
+- [e1979](https://github.com/ApioLab/express-prometheus/commit/e19797b51c95baff2e2e3dc3bfbdb45b1ee20f49)  chore(deps): bump ajv from 6.12.0 to 6.12.6
+- [867c4](https://github.com/ApioLab/express-prometheus/commit/867c41f7f9b58079d07f8314b2d7f62f679df015)  chore(doc): update readme
+- [6e663](https://github.com/ApioLab/express-prometheus/commit/6e6631a64f3be4cc9781ecd456c6c2148f3b23bd)  📒 Update CHANGELOG
 # 📦 2.0.1 (13 Oct 2021)
 - [4dcef](https://github.com/ApioLab/express-prometheus/commit/4dceff671262f5e32bff0d01557aefc0acca5611)  📦 Release 2.0.1
 - [35523](https://github.com/ApioLab/express-prometheus/commit/355231b826a47a13ad0a1f7988f585d5f09fb24e)  chore: update dependencies
